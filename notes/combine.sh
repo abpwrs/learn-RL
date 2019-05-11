@@ -9,6 +9,7 @@
 
 # remove old notes
 rm notes.pdf
+rm README.md
 
 # update title slide
 pandoc 00.md -o 00.pdf
