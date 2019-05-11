@@ -1,0 +1,4 @@
+*.md
+*.tex
+!00.md
+!README.md
